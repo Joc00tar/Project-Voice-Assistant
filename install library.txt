@@ -1,0 +1,8 @@
+pip install gTTS
+pip install SpeechRecognition
+pip install pipwin
+pipwin install pyaudio
+pip install os-sys
+pip install os-win
+pip install os
+pip install times
